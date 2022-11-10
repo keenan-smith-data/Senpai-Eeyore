@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Senpai-Eeyore
-- 👀 I’m interested in Data Science and Examining how humanity influences itself
-- 🌱 I’m currently learning R, Java/TypeScript, Rust and Python
+- 👀 I’m interested in Data Science specifically Natural Language Processing but Love Data Science In General
+- I am fluent in Base R and Python.
+- 🌱 I’m currently learning Rust and eventually Julia
 - 💞️ I’m looking to collaborate on projects that allow me to learn and try new things. I have a deep passion for learning and any excuse to learn new skills I am game for.
 
 <!---
