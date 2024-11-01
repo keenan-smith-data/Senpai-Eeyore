@@ -1,6 +1,6 @@
 👋 Hey,
 
-I'm Keenan. I am a self-taught autistic R Data Scientist :mage: I also have a Systems/Mechanical Engineering (non-software) background. 
+I'm Keenan. I am a self-taught autistic R Data Scientist :mage: I also have a Systems/Mechanical Engineering (non-software) background. This is my personal account so my day-to-day work will not be displayed here.
 
 My Languages:
 - Preferred Language: R
