@@ -4,8 +4,8 @@ I'm Keenan. I am a self-taught autistic R Data Scientist :mage: I also have a Sy
 
 My Languages:
 - Preferred Language: R
-- Day-to-Day Languages: R & SAS
-- Languages I have Used: Python
+- Day-to-Day Languages: R, SAS
+- Languages I have Used: R, SAS, Python
 - Languages I am Learning: C, Rust
 
 I am currently:
